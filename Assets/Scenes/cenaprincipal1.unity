@@ -562,7 +562,7 @@ GameObject:
   - component: {fileID: 552327455}
   - component: {fileID: 552327456}
   m_Layer: 0
-  m_Name: foguete
+  m_Name: foguetinho
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -681,7 +681,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -1118783443847533485, guid: bdd95f146a5804e409a6b53121fbeaa1, type: 3}
+  m_Sprite: {fileID: -8136965440654746989, guid: bdd95f146a5804e409a6b53121fbeaa1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
